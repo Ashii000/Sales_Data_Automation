@@ -47,21 +47,21 @@ This Python script automates the entire "Extract, Transform, Load" (ETL) process
 
 ## 🏃‍♂️ How to Run
 
-1.  **Clone the repository:**
-    ```bash
-git clone https://github.com/Ashi000/Sales_Data_Automation.git
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Add your data:**
-    * Place your raw sales file in the folder and name it `raw_sales_data.xlsx`.
-    * *(A sample `raw_sales_data.xlsx` is included in this repository for testing.)*
-4.  **Run the script:**
-    ```bash
+1.  **Clone the repository:**  
+    ```bash  
+git clone https://github.com/Ashi000/Sales_Data_Automation.git  
+    ```   
+2.  **Install dependencies:**    
+    ```bash  
+    pip install -r requirements.txt  
+    ```  
+3.  **Add your data:**  
+    * Place your raw sales file in the folder and name it `raw_sales_data.xlsx`.  
+    * *(A sample `raw_sales_data.xlsx` is included in this repository for testing.)*  
+4.  **Run the script:**  
+    ```bash  
     python sales_automation.py
-    ```
-5.  **Check the output:**
-    * `cleaned_sales_data.xlsx`
-    * `sales_report.txt`
+    ```  
+5.  **Check the output:**  
+    * `cleaned_sales_data.xlsx`  
+    * `sales_report.txt`  
